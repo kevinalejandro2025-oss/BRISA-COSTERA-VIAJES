@@ -7,7 +7,6 @@ Caso de estudio A (segundo corte) - Programación 1 (Java)
 - **Autor:** Kevin Alejandro Barco Guerra
 - **Universidad:** UNIAJC – Institución Universitaria Antonio José Camacho
 - **Docente:** David Escobar Valencia
-- **Video:** [ENLACE DEL VIDEO]
 
 ## 1. La empresa
 
@@ -83,7 +82,7 @@ Tablero: [Backlog Brisa Costera](https://github.com/users/kevinalejandro2025-oss
 
 ## 5. Paso a paso en GitHub
 
-**1. Crear el repositorio** público desde **+ → New repository**.
+**1. Crear el repositorio**.
 
 ![Repositorio](capturas/g01-repositorio.png)
 
@@ -205,8 +204,4 @@ Las pruebas se hicieron con datos de prueba. En algunas capturas la cédula apar
 **P12**
 ![P12](capturas/p12-salir.png)
 
-## 8. Limitaciones
 
-- Si se escriben letras donde va un número, el programa se cierra, porque las validaciones son solo con `if`.
-- La respuesta a "vacaciones" debe ser una sola palabra.
-- El respaldo tiene nombre fijo, así que cada respaldo reemplaza al anterior.
