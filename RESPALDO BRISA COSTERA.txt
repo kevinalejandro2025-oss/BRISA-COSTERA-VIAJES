@@ -1,0 +1,16 @@
+=========================================
+   BRISA COSTERA - AGENCIA DE VIAJES     
+         RESPALDO DE LA RESERVA          
+=========================================
+
+NOMBRE: ALEJO
+CEDULA: 1110256820
+FECHA DEL VIAJE: 15/02/2027
+DESTINO: SANTA MARTA
+TIPO DE MALETA: MP
+PERSONAS QUE VIAJAN: 5
+VALOR DEL VIAJE: $ 1.628.250,00
+
+=========================================
+FECHA DEL RESPALDO: 2026-10-27
+HORA DEL RESPALDO: 09:56:04.755242100
